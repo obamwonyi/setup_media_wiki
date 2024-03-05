@@ -42,7 +42,10 @@ read up on it [here](https://learn.microsoft.com/en-us/windows/wsl/install)
     #### Note : you can use any port other than 8080 . as long as it's not occupied.
 
     - Click on the link provided in the terminal , you project would open on your default web browser, you would see a link on how to setup you project. This link will simply take you to a page where you can generate the LocalSettings.php file . 
+
     - Please make sure to fill in the database details from the database settings above correctly . 
+
+    - After filling the details download the LocalSettings.php file and add it to the root of the project (MediWiki) directory and refresh the page or reserve the project
 
 
 ##### Comment below if you wan't me to make a setup with lamp stack on windows , with out the use of **WSL**. 
